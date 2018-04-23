@@ -20,9 +20,6 @@ def magic8_shake():
         if user_input == 'n':
             game_active = False
 
-        #else:
-        #   game_active = False
-
 print("Welcome to Kate's Magic 8! Please ask a yes/no question to find your answer.")
 
 magic8_shake()
